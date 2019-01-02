@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: AppleiTunesSearchURLComponents.xcodeproj
+xcode_scheme: AppleiTunesSearchURLComponents
+xcode_destination: platform=macOs
