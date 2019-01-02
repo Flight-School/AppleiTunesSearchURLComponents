@@ -1,5 +1,7 @@
 # AppleiTunesSearchURLComponents
 
+![Build Status](https://api.travis-ci.com/Flight-School/AppleiTunesSearchURLComponents.svg?branch=master)
+
 Router for the [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/).
 
 This functionality is discussed in Chapter 4 of
