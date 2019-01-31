@@ -26,5 +26,5 @@ MIT
 
 Mattt ([@mattt](https://twitter.com/mattt))
 
-[build status]: https://travis-ci.org/Flight-School/Guide-to-Swift-Numbers-Sample-Code
-[build status badge]: https://api.travis-ci.com/Flight-School/Guide-to-Swift-Numbers-Sample-Code.svg?branch=master
+[build status]: https://travis-ci.org/Flight-School/AppleiTunesSearchURLComponents
+[build status badge]: https://api.travis-ci.com/Flight-School/AppleiTunesSearchURLComponents.svg?branch=master
